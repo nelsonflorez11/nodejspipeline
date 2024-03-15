@@ -1,5 +1,5 @@
 node {
-   def gitcommit
+   
    stage('Verificación SCM') {
      echo ""hola mundo"
    }
